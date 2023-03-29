@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DegirmenciOmer
 - 👀 I’m a Frontend Developer
 - I 🧡 React
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Vue
 
 - 📫 See my portfolio site: https://omerdg.vercel.app/
 
